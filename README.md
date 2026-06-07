@@ -80,3 +80,5 @@ You can run the full stateful Python HTTP backend server locally in seconds:
 * `chatbot_web.py` — Stateful Python HTTP base server, session state management dictionary, and intent routing tables.
 * `index.html` — Premium front-end dashboard, local storage persistence, responsive styling, and offline simulation fallback.
 * `README.md` — Project description and system configuration specs.
+## Snapshot
+<img width="959" height="422" alt="image" src="https://github.com/user-attachments/assets/e94424a9-cb54-4e82-aaa8-4e4bc8c4d5b0" />
